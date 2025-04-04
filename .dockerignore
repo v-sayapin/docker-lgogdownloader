@@ -1,3 +1,5 @@
 .dockerignore
 .git/
+COPYING
 Dockerfile
+README.md
