@@ -1,7 +1,7 @@
 # Lightweight LGOGDownloader Docker image
 
-![lgogdownloader version](https://img.shields.io/badge/lgogdownloader-v3.17-informational.svg?logo=gogdotcom)
-![alpine version](https://img.shields.io/badge/alpine-v3.21-informational.svg?logo=alpinelinux)
+![lgogdownloader version](https://img.shields.io/badge/lgogdownloader-v3.18-informational.svg?logo=gogdotcom)
+![alpine version](https://img.shields.io/badge/alpine-v3.22.2-informational.svg?logo=alpinelinux)
 
 This repository contains the code of a lightweight Docker image for [LGOGDownloader](https://github.com/Sude-/lgogdownloader) which is unofficial open source downloader for [GOG.com](https://www.gog.com/).
 
